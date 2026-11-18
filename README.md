@@ -2,7 +2,7 @@
 
 Personal portfolio of **L.S. Sujai Sideshwer** — Java full-stack developer (Java · Spring Boot · Kafka · AWS · React · Angular).
 
-**Live:** https://sujaisideshwer.github.io/sujai-portfolio/
+**Live:** https://github.com/madhuprasad010/portfolio
 
 ## How it works
 
