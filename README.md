@@ -1,6 +1,6 @@
-# sujai-portfolio
+# Rihaan-portfolio
 
-Personal portfolio of **L.S. Sujai Sideshwer** — Java full-stack developer (Java · Spring Boot · Kafka · AWS · React · Angular).
+Personal portfolio of **Rihaan** — Java full-stack developer (Java · Spring Boot · Kafka · AWS · React · Angular).
 
 **Live:** https://github.com/madhuprasad010/portfolio
 
@@ -25,5 +25,5 @@ Everything lives in three files:
 | `css/style.css` | Design tokens (colors, fonts) and all styling |
 | `js/main.js` | Theme toggle, mobile nav, scroll animations, GitHub repo fetching |
 
-The résumé PDF served by the "Download résumé" button is at `assets/Sujai_Sideshwer_Resume.pdf` — replace that file to update it.
+The résumé PDF served by the "Download résumé" button is at `assets/Rihaan_Resume.pdf` — replace that file to update it.
 # portfolio
